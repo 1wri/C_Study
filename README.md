@@ -2,6 +2,20 @@
 
 《C语言》 重点 考点 题库 资料合集 
 
+### 资料在下方百度网盘链接
+
+链接: https://pan.baidu.com/s/16iYB_kKjoLsvUKqfF27Rlg?pwd=rvyi 提取码: rvyi
+--来自百度网盘超级会员v3的分享
+
+
+### 项目合集(项目不断更新中，包含java、vue、python、Android、微信小程序等项目)
+
+链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c
+--来自百度网盘超级会员v3的分享
+
+#### 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
+
+
 内容包括
 
 ①C语言常考知识点大总结[14页】
@@ -34,17 +48,7 @@
 
 15-题库10-C语言复习题库【18页】
 
-### 资料在下方百度网盘链接
-
-链接: https://pan.baidu.com/s/16iYB_kKjoLsvUKqfF27Rlg?pwd=rvyi 提取码: rvyi
---来自百度网盘超级会员v3的分享
 
 
-### 项目合集(项目不断更新中，包含java、vue、python、Android、微信小程序等项目)
-
-链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c
---来自百度网盘超级会员v3的分享
-
-#### 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
 
 
